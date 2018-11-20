@@ -46,7 +46,7 @@ const (
 	GcrImages      = "https://gcr.io/v2/%s/tags/list"
 	GcrImageTags   = "https://gcr.io/v2/%s/%s/tags/list"
 	// RegistryTag    = "https://hub.docker.com/v2/repositories/%s/%s/tags/%s/"
-	RegistryTag.   = "https://registry.cn-hangzhou.aliyuncs.com/%s/%s/%s/"
+	RegistryTags   = "https://registry.cn-hangzhou.aliyuncs.com/%s/%s/%s/"
 )
 
 func (g *Gcr) Sync() {
