@@ -35,7 +35,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/mritd/gcrsync/pkg/utils"
+	"github.com/dzxs/gcrsync/pkg/utils"
 )
 
 func (g *Gcr) needProcessImages(images []string) []string {

@@ -1,4 +1,4 @@
-# gcrsync [![Build Status](https://travis-ci.org/mritd/gcrsync.svg?branch=master)](https://travis-ci.org/mritd/gcrsync)
+# gcrsync [![Build Status](https://travis-ci.org/dzxs/gcrsync.svg?branch=master)](https://travis-ci.org/dzxs/gcrsync)
 
 A docker image sync tool for Google container registry (gcr.io)
 
@@ -8,7 +8,7 @@ A docker image sync tool for Google container registry (gcr.io)
 可自行 build:
 
 ```bash
-go get github.com/mritd/gcrsync
+go get github.com/dzxs/gcrsync
 ```
 
 ## 使用

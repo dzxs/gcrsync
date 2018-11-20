@@ -1,4 +1,4 @@
-module github.com/mritd/gcrsync
+module github.com/dzxs/gcrsync
 
 require (
 	github.com/Microsoft/go-winio v0.4.11 // indirect

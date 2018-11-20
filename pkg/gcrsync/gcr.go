@@ -32,7 +32,7 @@ import (
 	"github.com/docker/docker/client"
 
 	"github.com/json-iterator/go"
-	"github.com/mritd/gcrsync/pkg/utils"
+	"github.com/dzxs/gcrsync/pkg/utils"
 	"github.com/sirupsen/logrus"
 )
 
